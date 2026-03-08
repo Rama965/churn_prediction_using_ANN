@@ -189,25 +189,6 @@ Users can input customer details and instantly get churn predictions.
 
 ---
 
-# 🎯 Future Improvements
-
-Possible enhancements:
-
-* Explainable AI using SHAP
-* Model comparison (XGBoost vs ANN)
-* Customer segmentation using clustering
-* Cloud deployment (AWS / Docker)
-* Real-time API integration
-
----
-
-# 👨‍💻 Author
-
-B.Tech Computer Science Graduate
-Aspiring Data Scientist
-
----
-
 # ⭐ If you like this project
 
 Give it a ⭐ on GitHub and feel free to contribute!
